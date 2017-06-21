@@ -1,0 +1,9 @@
+add inline display
+implement cascading style
+    need to create hash for MatchedRule so we can compare parent rules to child rules
+make HTML height and width the height and width of the window
+refactor content variable name to border/padding
+clean up factories
+make styleoptions responsible for if they should cascade or not
+need to make font-decoration a "styleoption" or something
+    as it is now, can't cascade to child TextNode because it only styles the current node

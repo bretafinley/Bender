@@ -1,0 +1,12 @@
+add onclick with chain of responsibility?
+add more tags
+    <strong>
+    <em>
+    <ol>/<ul>?
+    <code>
+    <h1> - <h6>
+    <hr>
+    <p>
+    <span>
+    <input>/<textarea>
+    <button>

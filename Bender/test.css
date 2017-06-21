@@ -1,0 +1,47 @@
+* {
+    background-color: white;
+    foreground-color: black;
+    font-size: 12;
+    margin-top: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    margin-left: 0;
+    padding-top: 0;
+    padding-right: 0;
+    padding-bottom: 0;
+    padding-left: 0;
+    border-width: 0;
+    border-color: black;
+    width: 500;
+    height: 100;
+}
+
+html {
+    background-color: black;
+    foreground-color: white;
+    height: 500;
+    width: 500;
+}
+
+.b {
+    background-color: rgb(123, 22, 11);
+    height: 150;
+    border-width: 10;
+    border-color: cyan;
+}
+
+.g {
+    background-color: green;
+    padding-top: 40;
+    height: 125;
+    border-width: 0;
+    border-color: blue;
+}
+
+.r {
+    background-color: red;
+    padding-top: 10;
+    height: 100;
+    border-width: 0;
+    border-color: blue;
+}
